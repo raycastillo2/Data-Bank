@@ -1,1 +1,2 @@
 # Data-Bank
+Used python to create a ‘Data Bank’ of thousands of songs that are organized in different data objects (including its components like title and artist). Functions include a quicksort, a balancing binary search tree (AVL tree, for fast finding of particular titles), a graph that connects artist with its features (with weight for one to see who a mutual feature is and a recommendation system to see who to feature with next). 
